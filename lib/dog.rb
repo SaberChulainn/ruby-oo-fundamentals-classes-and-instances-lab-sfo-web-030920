@@ -1,6 +1,7 @@
 dog class
-fido = 0 
-snoopy = 0 
-lasstie = 0
 
 end
+
+fido = dog.new 
+snoopy = dog.new 
+lassie = dog.new
